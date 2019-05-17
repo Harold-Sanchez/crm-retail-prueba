@@ -1,0 +1,4 @@
+hola,abc,dfj,jhd
+hola.abc.dfj.jhd
+hola%abc%dfj%jhd
+hola,abc,dfj,jhd

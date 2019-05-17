@@ -1,0 +1,5 @@
+@media (max-width:667px){
+    nav.navbar-fixed-top{
+        padding: 0 0 !important
+    }
+}
