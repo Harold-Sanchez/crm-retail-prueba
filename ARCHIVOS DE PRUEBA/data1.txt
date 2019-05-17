@@ -1,0 +1,4 @@
+'hola','abc','dfj','jhd'
+'harold','sanchez','3208636258','hfsanchez4@gmail.com'
+'angel','diaz','3105241785','jange.d@gmail.com'
+'julian','becerra','3155241785','jul.bec@hotmail.com'
