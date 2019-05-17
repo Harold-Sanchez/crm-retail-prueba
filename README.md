@@ -1,6 +1,6 @@
 # crm-retail-prueba
 
-- nodejs, express, oracle, bootstrap 4.0
+- nodejs, express, Oracle 12c, bootstrap 4.0
 
 # Instalación Local
 
